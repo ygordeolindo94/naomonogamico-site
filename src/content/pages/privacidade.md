@@ -4,7 +4,7 @@ seo_description: Como o Não Monogâmico trata as informações enviadas pelos f
 eyebrow: Privacidade
 title: Política de *privacidade*
 lede: Este é um site informativo. Coletamos o mínimo possível e explicamos aqui o que é coletado, para quê e como pedir alterações ou exclusão.
-updated: 2026-11-02
+updated: 2026-11-11
 ---
 
 ## Navegação no site
@@ -27,9 +27,19 @@ Os formulários servem para indicar eventos, profissionais e iniciativas, ou par
 
 **Por quanto tempo:** os envios são apagados depois de analisados. O que for publicado permanece no site enquanto for útil e pode ser corrigido ou removido a pedido.
 
-## Profissionais e iniciativas listados
+## Quem recebe e trata os dados
 
-Os perfis exibem apenas informações profissionais e canais públicos. Antes de publicar um profissional indicado por outra pessoa, buscamos confirmar o interesse pelo canal público informado. Qualquer profissional ou iniciativa pode pedir correção ou remoção a qualquer momento.
+Os dados enviados pelos formulários são recebidos pelo **site Não Monogâmico** (www.naomonogamico.com.br), que é o responsável por eles. Apenas a administração do projeto tem acesso aos envios.
+
+## Dados de profissionais, iniciativas e eventos
+
+Muitas das informações publicadas aqui chegam por indicação de outras pessoas ou são encontradas em canais públicos, como perfis em redes sociais e sites oficiais. Para essas informações, seguimos estas regras:
+
+1. **Análise antes de tudo.** Toda indicação ou informação coletada em redes sociais é analisada antes de qualquer publicação. Nada é publicado automaticamente.
+2. **Contato e autorização para dados profissionais.** Antes de publicar dados de um profissional (como nome, área de atuação, registro profissional e contatos), entramos em contato com a pessoa pelo canal público informado para explicar como os dados serão exibidos e perguntar se ela autoriza o uso para fins profissionais neste site.
+3. **Sem autorização, sem publicação.** Se a pessoa não autorizar, ou não responder, os dados dela não são publicados e o registro da indicação é apagado.
+4. **Iniciativas e eventos.** Para iniciativas, festas, comunidades e eventos, publicamos apenas informações que eles próprios divulgam em seus canais oficiais (nome, descrição, cidade, logo e links). Sempre que possível, indicamos a fonte e a data em que as informações foram reunidas.
+5. **Correção e remoção a qualquer momento.** Qualquer pessoa, profissional ou iniciativa listada pode pedir correção ou remoção das suas informações, e também pode retirar uma autorização dada antes. O pedido é atendido assim que analisado.
 
 ## Links externos e compartilhamento
 
@@ -37,7 +47,7 @@ Os botões de compartilhamento são links simples: nenhum script de redes sociai
 
 ## Seus direitos
 
-Pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018), você pode pedir confirmação de tratamento, acesso, correção, anonimização ou exclusão dos seus dados, além de revogar uma autorização dada. Use o canal de contato indicado nesta página.
+Pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018), você pode pedir confirmação de tratamento, acesso, correção, anonimização ou exclusão dos seus dados, além de revogar uma autorização dada. Para fazer qualquer um desses pedidos, use o canal indicado nesta página.
 
 ## Alterações
 

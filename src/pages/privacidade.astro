@@ -25,9 +25,9 @@ const { controller, email } = SITE.privacy;
         {email ? (
           <p><strong>Canal para assuntos de privacidade:</strong><br /><a href={`mailto:${email}`}>{email}</a></p>
         ) : (
-          <p class="pending">O canal oficial de contato para assuntos de privacidade está sendo definido e será publicado aqui.</p>
+          <p><strong>Canal para assuntos de privacidade:</strong><br />use o <a href="/contribua?tipo=conteudo#formulario">formulário de contribuição</a>, opção “Apontar uma correção”, e diga que o pedido é sobre dados pessoais. Informe um contato para recebermos a sua resposta.</p>
         )}
-        <p class="muted small">Também é possível pedir correções e remoções pelo <a href="/contribua?tipo=conteudo#formulario">formulário de contribuição</a> (opção “Apontar uma correção”).</p>
+        {email && <p class="muted small">Também é possível pedir correções e remoções pelo <a href="/contribua?tipo=conteudo#formulario">formulário de contribuição</a> (opção “Apontar uma correção”).</p>}
       </aside>
     </div>
   </section>

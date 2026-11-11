@@ -75,7 +75,7 @@ Títulos editáveis aceitam `*trecho*` para destaque com o degradê da marca.
 ## Identidade visual
 
 - **Logo oficial:** "Não Monogâmico", três pessoas ligadas por um coração em forma de infinito (rosa, branco e roxo).
-  - Original: `logo-nao-monogamico.png` na branch `main` do repositório do Diogo (página "em breve")
+  - Original: `logo-nao-monogamico.png`, na raiz do repositório (o mesmo da antiga página "em breve")
   - No site: `public/brand/logo.webp` (logo completa, Home e rodapé) e
     `public/brand/symbol.webp` (só o símbolo — cabeçalho). Favicons gerados a partir do símbolo.
   - Para trocar por um arquivo vetorial (SVG) quando existir, basta substituir esses arquivos mantendo os nomes.
