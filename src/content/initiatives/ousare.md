@@ -5,6 +5,8 @@ description: 'Movimento e comunidade para quem quer viver a não monogamia na pr
 region: Brasil (online e encontros presenciais)
 instagram: https://www.instagram.com/ousar.e/
 link: https://forms.gle/AfPu4ADCLzbawhv86
+logo: /images/iniciativas/ousare.webp
+logoBg: "#26094c"
 verified: true
 ---
 

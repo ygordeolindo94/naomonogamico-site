@@ -123,6 +123,9 @@ const initiatives = defineCollection({
     link: optUrl,
     image: optText,
     imageAlt: optText,
+    /** Logo da iniciativa (imagem quadrada) e cor de fundo usada ao redor dele. */
+    logo: optText,
+    logoBg: optText,
     /** false = informações ainda não confirmadas com a própria iniciativa */
     verified: z.boolean().default(false),
     draft: z.boolean().default(false),

@@ -4,6 +4,8 @@ category: organizacoes
 description: Associação Nacional de Pessoas e Coletivos Não Monogâmicos. Fundada em janeiro de 2025, reúne pessoas e coletivos de diferentes regiões do Brasil em torno da organização e da visibilidade da comunidade não monogâmica.
 region: Brasil (atuação nacional)
 instagram: https://www.instagram.com/anamosoficial/
+logo: /images/iniciativas/anamos.webp
+logoBg: "#fe99b9"
 verified: true
 ---
 

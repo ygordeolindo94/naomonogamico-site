@@ -5,6 +5,8 @@ description: 'Página de conteúdo sobre não monogamia (@snaomono): artigos, v�
 region: Online
 instagram: https://www.instagram.com/snaomono/
 website: https://www.snaomono.com.br/
+logo: /images/iniciativas/snaomono.webp
+logoBg: "#8c52ff"
 verified: true
 ---
 

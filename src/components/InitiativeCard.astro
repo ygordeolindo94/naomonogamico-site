@@ -18,8 +18,8 @@ const initials = d.name.split(/\s+/).slice(0, 2).map((w) => w[0]).join('').toUpp
   data-name={d.name}
 >
   <div class="visual">
-    <Cover seed={item.id} tone={cat.tone} image={d.image} alt={d.imageAlt ?? ''} ratio="16 / 7" />
-    {!d.image && <span class="mono" aria-hidden="true">{initials}</span>}
+    <Cover seed={item.id} tone={cat.tone} image={d.image} logo={d.logo} logoBg={d.logoBg} alt={d.imageAlt ?? `Logo ${d.name}`} ratio="16 / 7" />
+    {!d.image && !d.logo && <span class="mono" aria-hidden="true">{initials}</span>}
   </div>
   <div class="card-body">
     <div class="card-meta">

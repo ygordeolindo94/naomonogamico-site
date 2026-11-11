@@ -297,7 +297,9 @@ collections:
       - { label: Instagram, name: instagram, widget: string, type: url, required: false, pattern: *link_pattern }
       - { label: Site, name: website, widget: string, type: url, required: false, pattern: *link_pattern }
       - { label: Outro link externo, name: link, widget: string, type: url, required: false, pattern: *link_pattern }
-      - { label: Imagem ou identidade visual, name: image, widget: image, required: false }
+      - { label: Logo, name: logo, widget: image, required: false, hint: "Imagem quadrada (ex.: a foto de perfil do Instagram). Aparece no card e na página da iniciativa." }
+      - { label: Cor de fundo do logo, name: logoBg, widget: color, required: false, hint: "Mesma cor do fundo do logo, para preencher as laterais do card." }
+      - { label: Imagem de capa (opcional), name: image, widget: image, required: false, hint: "Se preenchida, substitui o logo no card." }
       - { label: Descrição da imagem, name: imageAlt, widget: string, required: false }
       - label: Informações confirmadas
         name: verified

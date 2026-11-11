@@ -59,7 +59,7 @@ const jsonLd = d.example || !d.verified ? [] : [{
 
     <div class="wrap in-grid">
       <div class="in-main stack" style="--stack: var(--s-6)">
-        <Cover seed={item.id} tone={cat.tone} image={d.image} alt={d.imageAlt ?? ''} ratio="16 / 8" eager class="in-cover" />
+        <Cover seed={item.id} tone={cat.tone} image={d.image} logo={d.logo} logoBg={d.logoBg} alt={d.imageAlt ?? `Logo ${d.name}`} ratio="16 / 8" eager class="in-cover" />
         {hasBody && <div class="prose"><Content /></div>}
         <ShareButtons title={d.name} label="Compartilhar esta iniciativa" />
       </div>

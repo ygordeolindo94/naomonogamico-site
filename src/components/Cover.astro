@@ -11,11 +11,14 @@ interface Props {
   tone?: Tone;
   image?: string;
   alt?: string;
+  /** Logo quadrado, exibido centralizado sobre a cor `logoBg`. Tem prioridade sobre a capa abstrata. */
+  logo?: string;
+  logoBg?: string;
   ratio?: string;
   eager?: boolean;
   class?: string;
 }
-const { seed, tone = 'coral', image, alt = '', ratio = '16 / 10', eager = false, class: cls } = Astro.props;
+const { seed, tone = 'coral', image, logo, logoBg, alt = '', ratio = '16 / 10', eager = false, class: cls } = Astro.props;
 
 const COLORS: Record<Tone, string> = {
   coral: '#f4475f', violet: '#8b3fd1', teal: '#44c3c8', sun: '#ff7a45', rose: '#d8327a',
@@ -35,8 +38,10 @@ const variant = r(4, 3);
 const flip = r(2, 5) === 1;
 const shift = r(60, 4) - 30;
 ---
-<div class:list={['cover', cls]} style={`aspect-ratio:${ratio};background:${BG[tone]}`}>
-  {image ? (
+<div class:list={['cover', cls, logo && !image && 'has-logo']} style={`aspect-ratio:${ratio};background:${logo && !image ? (logoBg || BG[tone]) : BG[tone]}`}>
+  {logo && !image ? (
+    <img class="logo" src={logo} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+  ) : image ? (
     <img src={image} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" />
   ) : (
     <svg viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false" style={flip ? 'transform:scaleX(-1)' : undefined}>
@@ -85,4 +90,5 @@ const shift = r(60, 4) - 30;
 <style>
   .cover { position: relative; overflow: hidden; width: 100%; }
   .cover svg, .cover img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .cover img.logo { inset: 0; margin: auto; width: auto; height: 100%; aspect-ratio: 1; object-fit: contain; }
 </style>

@@ -5,6 +5,8 @@ description: Festa acolhedora e segura para pessoas não monogâmicas, LGBTQIA+,
 region: Piedade, Rio de Janeiro · RJ
 instagram: https://www.instagram.com/festapluralnm/
 link: https://chat.whatsapp.com/KFTbwx3aUazEKFI7h2gFXD
+logo: /images/iniciativas/plural.webp
+logoBg: "#e60106"
 verified: true
 ---
 
