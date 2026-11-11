@@ -6,7 +6,7 @@ category: palestras
 city: Online
 online: true
 organizer: Organização de exemplo
-summary: Evento demonstrativo de formato online. Serve para visualizar filtros e cards — não é um evento real.
+summary: Evento demonstrativo de formato online. Serve para visualizar filtros e cards. Não é um evento real.
 price: Gratuito
 example: true
 ---

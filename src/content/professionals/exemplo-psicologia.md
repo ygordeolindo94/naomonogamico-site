@@ -1,6 +1,6 @@
 ---
 name: Exemplo de Profissional
-profession: Psicóloga(o) — perfil demonstrativo
+profession: Psicóloga(o), perfil demonstrativo
 category: psicologia
 specialties:
 - Relações não monogâmicas

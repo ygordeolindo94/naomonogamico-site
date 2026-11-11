@@ -59,7 +59,7 @@ export function emphasize(text = '') {
   return esc.replace(/\*([^*]+)\*/g, '<em>$1</em>').replace(/\r?\n/g, '<br />');
 }
 
-/** Remove a marcação de destaque (*…*) — para títulos de aba e metadados. */
+/** Remove a marcação de destaque (*…*), para títulos de aba e metadados. */
 export const plain = (text = '') => text.replace(/\*/g, '').replace(/\s*\n\s*/g, ' ').trim();
 
 /** Texto puro a partir de Markdown simples (para dados estruturados). */

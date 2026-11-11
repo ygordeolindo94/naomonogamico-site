@@ -1,6 +1,6 @@
 /**
  * Categorias usadas em todo o site.
- * Para criar uma nova categoria, adicione um item aqui — os filtros e selos
+ * Para criar uma nova categoria, adicione um item aqui; os filtros e selos
  * são gerados automaticamente a partir destas listas.
  *
  * `tone` define a cor de destaque: coral | violet | teal | sun | rose

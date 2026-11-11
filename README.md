@@ -74,10 +74,10 @@ Títulos editáveis aceitam `*trecho*` para destaque com o degradê da marca.
 
 ## Identidade visual
 
-- **Logo oficial:** selo circular "Não Monogamia" (três figuras com corpos em forma de coração, entrelaçadas).
-  - Original: `src/assets/logo-original.png`; versão com fundo transparente: `src/assets/logo-transparent.png`
-  - No site: `public/brand/logo-badge.webp|png` (selo completo — Home e rodapé) e
-    `public/brand/symbol.png` (só o símbolo — cabeçalho). Favicons gerados a partir do símbolo.
+- **Logo oficial:** "Não Monogâmico", três pessoas ligadas por um coração em forma de infinito (rosa, branco e roxo).
+  - Original: `logo-nao-monogamico.png` na branch `main` do repositório do Diogo (página "em breve")
+  - No site: `public/brand/logo.webp` (logo completa, Home e rodapé) e
+    `public/brand/symbol.webp` (só o símbolo — cabeçalho). Favicons gerados a partir do símbolo.
   - Para trocar por um arquivo vetorial (SVG) quando existir, basta substituir esses arquivos mantendo os nomes.
 - **Tema:** escuro, como a logo. Fundo `#0B0B0F`, texto `#F5F4F8`.
 - **Paleta (extraída do gradiente da logo):** laranja `#FF7A45`, coral `#F4475F`, magenta `#D8327A`,

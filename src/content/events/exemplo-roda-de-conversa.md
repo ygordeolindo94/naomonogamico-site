@@ -7,7 +7,7 @@ city: São Paulo
 state: SP
 venue: Local a definir
 organizer: Organização de exemplo
-summary: Evento demonstrativo — mostra como um encontro aparece na agenda. Não é um evento real.
+summary: 'Evento demonstrativo: mostra como um encontro aparece na agenda. Não é um evento real.'
 price: Gratuito
 example: true
 ---

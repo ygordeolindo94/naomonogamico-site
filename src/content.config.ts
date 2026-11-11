@@ -11,7 +11,7 @@ import {
 /*
  * Todo o conteúdo fica em src/content/<coleção>/*.md (um arquivo por item) e pode ser
  * editado pelo painel (/admin) ou diretamente nos arquivos. O painel grava campos vazios
- * como "" — os auxiliares abaixo tratam "" como "não preenchido".
+ * como ""; os auxiliares abaixo tratam "" como "não preenchido".
  */
 const blank = (v: unknown) => (typeof v === 'string' && v.trim() === '') || v === null ? undefined : v;
 const optText = z.preprocess(blank, z.string().trim().optional());

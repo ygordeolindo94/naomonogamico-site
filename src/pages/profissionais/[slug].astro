@@ -36,7 +36,7 @@ const jsonLd = d.example ? [] : [{
 }];
 ---
 <BaseLayout
-  title={`${d.name} — ${d.profession}`}
+  title={`${d.name}, ${d.profession}`}
   description={d.description}
   breadcrumbs={crumbs}
   noindex={d.example}
@@ -53,7 +53,7 @@ const jsonLd = d.example ? [] : [{
           <div class="stack" style="--stack: var(--s-2)">
             <div class="card-meta">
               <span class="tag">{cat.label}</span>
-              {d.example && <span class="tag tag-example">Exemplo — não é um perfil real</span>}
+              {d.example && <span class="tag tag-example">Exemplo: não é um perfil real</span>}
             </div>
             <h1>{d.name}</h1>
             <p class="lede">{d.profession}</p>
@@ -73,7 +73,7 @@ const jsonLd = d.example ? [] : [{
             <ul role="list" class="specs">{d.specialties.map((s) => <li>{s}</li>)}</ul>
           </section>
         )}
-        <ShareButtons title={`${d.name} — ${d.profession}`} label="Compartilhar este perfil" />
+        <ShareButtons title={`${d.name}, ${d.profession}`} label="Compartilhar este perfil" />
       </div>
 
       <aside class="pf-info" aria-label="Informações de atendimento">

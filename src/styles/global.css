@@ -1,5 +1,5 @@
 /* =========================================================
-   Não Monogâmico — sistema visual
+   Não Monogâmico: sistema visual
    ========================================================= */
 
 :root {
@@ -26,7 +26,7 @@
   --teal: #44c3c8;
   --sun: var(--orange);
   --rose: var(--magenta);
-  --grad: linear-gradient(90deg, #ff7a45 0%, #f4475f 22%, #d8327a 40%, #8b3fd1 62%, #4750e0 80%, #44c3c8 100%);
+  --grad: linear-gradient(90deg, #f0127a 0%, #e0409a 35%, #b04fd8 68%, #8a45d6 100%);
   --grad-soft: linear-gradient(120deg, rgba(244, 71, 95, 0.18), rgba(139, 63, 209, 0.18) 50%, rgba(68, 195, 200, 0.18));
 
   /* Acentos para texto (contraste ≥ 4.5:1 sobre o fundo escuro) */

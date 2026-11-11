@@ -40,6 +40,16 @@
 
 # Endereços antigos/alternativos → páginas atuais
 [[redirects]]
+  from = "/iniciativas/anam"
+  to = "/iniciativas/anamos"
+  status = 301
+
+[[redirects]]
+  from = "/iniciativas/snomono"
+  to = "/iniciativas/snaomono"
+  status = 301
+
+[[redirects]]
   from = "/blog"
   to = "/conteudos"
   status = 301

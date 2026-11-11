@@ -28,7 +28,7 @@ export const SITE = {
   description:
     'Guia independente sobre não monogamia: conteúdos introdutórios, agenda de eventos, iniciativas da comunidade e profissionais que atendem pessoas não monogâmicas.',
 
-  /** Canais oficiais — vazios não aparecem em lugar nenhum. Editáveis no painel. */
+  /** Canais oficiais: vazios não aparecem em lugar nenhum. Editáveis no painel. */
   social: {
     instagram: instagramUrl(settings.instagram),
     instagramHandle: clean(settings.instagram).replace(/^https?:\/\/(www\.)?instagram\.com\//, '').replace(/\/$/, '').replace(/^@?/, '@'),

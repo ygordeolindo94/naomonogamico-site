@@ -12,7 +12,7 @@ const url = new URL(path, SITE.url).toString();
 const u = encodeURIComponent(url);
 const t = encodeURIComponent(title);
 const targets = [
-  { name: 'WhatsApp', href: `https://wa.me/?text=${encodeURIComponent(`${title} — ${url}`)}` },
+  { name: 'WhatsApp', href: `https://wa.me/?text=${encodeURIComponent(`${title}: ${url}`)}` },
   { name: 'Telegram', href: `https://t.me/share/url?url=${u}&text=${t}` },
   { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
   { name: 'X', href: `https://x.com/intent/post?url=${u}&text=${t}` },

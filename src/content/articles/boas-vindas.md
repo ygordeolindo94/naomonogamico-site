@@ -1,6 +1,6 @@
 ---
 title: 'Boas-vindas: o que você vai encontrar por aqui'
-description: Um mapa rápido do Não Monogâmico — o que já existe, o que está por vir e como você pode ajudar o projeto a crescer.
+description: 'Um mapa rápido do Não Monogâmico: o que já existe, o que está por vir e como você pode ajudar o projeto a crescer.'
 date: 2026-09-23
 category: comunidade
 tags: [sobre o projeto]
@@ -13,11 +13,11 @@ Durante muito tempo, quem quisesse entender o assunto precisava garimpar textos 
 
 ## O que já está no ar
 
-- **[Entenda](/entenda)** — guias introdutórios para quem está começando: o que é não monogamia, diferentes formas de relacionamento, comunicação, acordos, ciúme.
-- **[Eventos](/eventos)** — uma agenda para encontrar festas, encontros, palestras e workshops.
-- **[Iniciativas](/iniciativas)** — um diretório de comunidades, festas, projetos e criadores de conteúdo.
-- **[Profissionais](/profissionais)** — um espaço para encontrar quem atende pessoas não monogâmicas.
-- **[Perguntas frequentes](/faq)** — respostas diretas para dúvidas comuns.
+- **[Entenda](/entenda)**: guias introdutórios para quem está começando: o que é não monogamia, diferentes formas de relacionamento, comunicação, acordos, ciúme.
+- **[Eventos](/eventos)**: uma agenda para encontrar festas, encontros, palestras e workshops.
+- **[Iniciativas](/iniciativas)**: um diretório de comunidades, festas, projetos e criadores de conteúdo.
+- **[Profissionais](/profissionais)**: um espaço para encontrar quem atende pessoas não monogâmicas.
+- **[Perguntas frequentes](/faq)**: respostas diretas para dúvidas comuns.
 
 ## O que vem por aí
 

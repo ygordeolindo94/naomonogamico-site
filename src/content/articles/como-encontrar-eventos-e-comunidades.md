@@ -14,15 +14,15 @@ Aqui vão algumas ideias para começar.
 
 Eventos e comunidades têm propostas bem diferentes. Antes de ir, vale se perguntar o que você busca:
 
-- **Conversa e troca de experiências** — rodas de conversa, grupos de apoio, encontros temáticos.
-- **Aprendizado** — palestras, workshops, cursos.
-- **Socialização** — festas, encontros informais.
+- **Conversa e troca de experiências**: rodas de conversa, grupos de apoio, encontros temáticos.
+- **Aprendizado**: palestras, workshops, cursos.
+- **Socialização**: festas, encontros informais.
 
 Nenhum é melhor que o outro, mas cada um tem seu clima. Ler a descrição com atenção evita surpresas.
 
 ## 2. Leia as regras e acordos do espaço
 
-Muitos eventos e comunidades têm códigos de conduta, políticas de consentimento ou orientações de convivência. Ler antes ajuda a entender o que é esperado — e a perceber se o espaço tem cuidado com quem participa.
+Muitos eventos e comunidades têm códigos de conduta, políticas de consentimento ou orientações de convivência. Ler antes ajuda a entender o que é esperado e a perceber se o espaço tem cuidado com quem participa.
 
 ## 3. Vá no seu ritmo
 
@@ -30,7 +30,7 @@ Ninguém precisa sair da primeira experiência com amizades, parcerias ou certez
 
 ## 4. Cuide da sua privacidade
 
-Nem todo mundo pode ou quer ser visível como não monogâmico. Tudo bem. Muitos espaços respeitam o anonimato, e você pode escolher o que compartilhar — nas conversas e nas redes sociais.
+Nem todo mundo pode ou quer ser visível como não monogâmico. Tudo bem. Muitos espaços respeitam o anonimato, e você pode escolher o que compartilhar, nas conversas e nas redes sociais.
 
 ## 5. Use a agenda e o diretório
 

@@ -1,6 +1,6 @@
 ---
 title: O que é não monogamia?
-description: Uma introdução sem jargão ao que as pessoas querem dizer quando falam em não monogamia — e por que não existe uma única forma de vivê-la.
+description: Uma introdução sem jargão ao que as pessoas querem dizer quando falam em não monogamia, e por que não existe uma única forma de vivê-la.
 short: O ponto de partida. O que o termo costuma significar e o que ele não significa.
 order: 1
 updated: 2026-09-23
@@ -15,7 +15,7 @@ Pense nele como um **guarda-chuva**: debaixo dele cabem arranjos, valores e expe
 Embora cada pessoa e cada relação tenham seu jeito, algumas ideias aparecem com frequência quando o assunto é não monogamia:
 
 - **Consentimento e transparência.** As pessoas envolvidas sabem que a relação não é exclusiva e concordam com isso. É o que diferencia a não monogamia de uma traição.
-- **Conversa contínua.** Acordos, limites e desejos são conversados — e revisitados quando algo muda.
+- **Conversa contínua.** Acordos, limites e desejos são conversados e revisitados quando algo muda.
 - **Autonomia.** Muita gente entende que cada pessoa pode decidir sobre a própria vida afetiva, em diálogo com quem se relaciona.
 
 ## O que não monogamia *não* é

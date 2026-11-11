@@ -30,11 +30,7 @@ const { eyebrow, title, lede, breadcrumbs, tone = 'coral' } = Astro.props;
     {lede && <p class="lede">{lede}</p>}
     <slot />
   </div>
-  <svg class="deco" viewBox="0 0 200 200" aria-hidden="true" focusable="false">
-    <defs><linearGradient id="ph-grad" x1="0" x2="1"><stop offset="0" stop-color="#ff7a45" /><stop offset=".35" stop-color="#f4475f" /><stop offset=".65" stop-color="#8b3fd1" /><stop offset="1" stop-color="#44c3c8" /></linearGradient></defs>
-    <circle cx="75" cy="100" r="58" fill="none" stroke="var(--tone)" stroke-width="10" />
-    <circle cx="125" cy="100" r="58" fill="none" stroke="url(#ph-grad)" stroke-width="10" />
-  </svg>
+  <img class="deco" src="/brand/symbol.webp" width="360" height="257" alt="" aria-hidden="true" decoding="async" />
 </section>
 
 <style>
@@ -46,8 +42,8 @@ const { eyebrow, title, lede, breadcrumbs, tone = 'coral' } = Astro.props;
   .crumbs li + li::before { content: '/'; margin-right: var(--s-2); color: var(--line); }
   .crumbs a { color: var(--ink-2); }
   .crumbs [aria-current] { color: var(--ink-3); }
-  .deco { position: absolute; right: -60px; top: 50%; transform: translateY(-50%); width: min(46vw, 380px); opacity: 0.55; }
+  .deco { position: absolute; right: -40px; top: 50%; transform: translateY(-50%); width: min(46vw, 380px); opacity: 0.22; }
   @media (max-width: 720px) {
-    .deco { top: -40px; transform: none; width: 150px; right: -80px; opacity: 0.35; }
+    .deco { top: -40px; transform: none; width: 150px; right: -80px; opacity: 0.16; }
   }
 </style>

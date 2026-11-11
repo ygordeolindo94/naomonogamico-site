@@ -1,14 +1,14 @@
 ---
 /**
  * Assinatura horizontal: símbolo da logo (três figuras entrelaçadas) + nome.
- * A logo completa (selo circular) fica em /public/brand/logo-badge.(webp|png).
+ * A logo completa fica em /public/brand/logo.(webp|png).
  */
 import { SITE } from '../config/site';
 interface Props { size?: 'sm' | 'md' | 'lg'; showName?: boolean }
 const { size = 'md', showName = true } = Astro.props;
 ---
 <span class:list={['logo', `logo-${size}`]}>
-  <img class="mark" src="/brand/symbol.png" width="262" height="147" alt="" decoding="async" />
+  <img class="mark" src="/brand/symbol.webp" width="360" height="257" alt="" decoding="async" />
   {showName && <span class="word">{SITE.name}</span>}
 </span>
 

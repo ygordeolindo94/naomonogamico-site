@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.256.1/schema/sveltia-cms.json
 # =====================================================================
-#  Painel administrativo — Não Monogâmico (Sveltia CMS)
+#  Painel administrativo: Não Monogâmico (Sveltia CMS)
 #  Documentação de uso: docs/GUIA-DO-PAINEL.md
 #  As categorias abaixo precisam bater com src/data/categories.ts.
 # =====================================================================
@@ -38,7 +38,7 @@ collections:
   - name: articles
     label: Artigos e entrevistas
     label_singular: texto
-    description: Blog — artigos, entrevistas e textos do projeto. Aparecem em /conteudos (entrevistas também em /conversas).
+    description: "Blog: artigos, entrevistas e textos do projeto. Aparecem em /conteudos (entrevistas também em /conversas)."
     icon: article
     folder: src/content/articles
     extension: md
@@ -247,7 +247,7 @@ collections:
       - { label: UF, name: state, widget: string, required: false, maxlength: 2 }
       - { label: Apresentação curta, name: description, widget: text, maxlength: 280, hint: "Aparece no card do diretório. Até 280 caracteres." }
       - { label: Especialidades / temas, name: specialties, widget: list, required: false }
-      - { label: Registro profissional, name: registration, widget: string, required: false, hint: "Ex.: CRP 06/000000 — só se a pessoa autorizar a exibição." }
+      - { label: Registro profissional, name: registration, widget: string, required: false, hint: "Ex.: CRP 06/000000, só se a pessoa autorizar a exibição." }
       - { label: Instagram, name: instagram, widget: string, type: url, required: false, pattern: *link_pattern }
       - { label: Site, name: website, widget: string, type: url, required: false, pattern: *link_pattern }
       - { label: WhatsApp profissional, name: whatsapp, widget: string, required: false, hint: "Só número de uso profissional e público. Com DDD." }
@@ -386,4 +386,4 @@ collections:
           - { label: WhatsApp de contato, name: whatsapp, widget: string, required: false, hint: "Com DDD. Vazio = não aparece." }
           - { label: Responsável pelos dados (Política de Privacidade), name: privacy_controller, widget: string, required: false, hint: "Nome ou razão social de quem responde pelo tratamento de dados." }
           - { label: E-mail para assuntos de privacidade, name: privacy_email, widget: string, type: email, required: false, hint: "Se vazio, usa o e-mail de contato." }
-          - { label: Mostrar conteúdo de exemplo, name: show_examples, widget: boolean, default: true, hint: "Desligue antes do lançamento — esconde todos os itens marcados como exemplo." }
+          - { label: Mostrar conteúdo de exemplo, name: show_examples, widget: boolean, default: true, hint: "Desligue antes do lançamento. Esconde todos os itens marcados como exemplo." }

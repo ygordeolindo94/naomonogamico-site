@@ -6,7 +6,7 @@ order: 5
 updated: 2026-09-23
 ---
 
-Uma das primeiras perguntas que muita gente faz é: *"mas e o ciúme?"*. É uma pergunta justa. Ciúme e insegurança aparecem em relações monogâmicas e não monogâmicas — e fingir que não existem raramente ajuda.
+Uma das primeiras perguntas que muita gente faz é: *"mas e o ciúme?"*. É uma pergunta justa. Ciúme e insegurança aparecem em relações monogâmicas e não monogâmicas, e fingir que não existem raramente ajuda.
 
 ## Sentir ciúme é normal
 
@@ -34,7 +34,7 @@ Identificar o que está por baixo pode tornar a conversa mais concreta: em vez d
 
 ## E a compersão?
 
-Algumas pessoas relatam sentir **compersão** — alegria ao ver alguém que amam feliz com outra pessoa. Para algumas, é algo que surge com o tempo; para outras, nunca aparece do mesmo jeito. As duas experiências são válidas. Compersão não é uma meta obrigatória nem um termômetro de "sucesso" na não monogamia.
+Algumas pessoas relatam sentir **compersão**: alegria ao ver alguém que amam feliz com outra pessoa. Para algumas, é algo que surge com o tempo; para outras, nunca aparece do mesmo jeito. As duas experiências são válidas. Compersão não é uma meta obrigatória nem um termômetro de "sucesso" na não monogamia.
 
 ## Um lembrete
 

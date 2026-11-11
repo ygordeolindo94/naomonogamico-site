@@ -6,7 +6,7 @@ category: workshops
 city: Belo Horizonte
 state: MG
 organizer: Organização de exemplo
-summary: Evento demonstrativo que já passou — mostra como eventos passados ficam arquivados na agenda.
+summary: Evento demonstrativo que já passou. Mostra como eventos passados ficam arquivados na agenda.
 example: true
 ---
 

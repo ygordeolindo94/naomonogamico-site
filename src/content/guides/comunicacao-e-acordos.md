@@ -8,7 +8,7 @@ updated: 2026-09-23
 
 Se existe um tema que aparece em quase toda conversa sobre não monogamia, é **comunicação**. Sem um roteiro social pronto, as pessoas precisam dizer em voz alta o que esperam, o que desejam e o que as deixa desconfortáveis.
 
-Isso pode parecer trabalhoso no começo — e às vezes é. Mas também pode ser uma oportunidade de se conhecer melhor.
+Isso pode parecer trabalhoso no começo, e às vezes é. Mas também pode ser uma oportunidade de se conhecer melhor.
 
 ## Como começar a conversa
 
@@ -40,7 +40,7 @@ Algumas pessoas fazem uma distinção útil:
 
 Há quem considere regras úteis, principalmente no começo, e há quem as veja com desconfiança por poderem afetar pessoas que não participaram da conversa (como novas parcerias). Vale conhecer os dois pontos de vista.
 
-## Acordos mudam — e tudo bem
+## Acordos mudam, e tudo bem
 
 Um combinado que fazia sentido há seis meses pode não fazer mais. Muitas pessoas marcam conversas periódicas para revisar acordos, em vez de esperar um problema aparecer.
 

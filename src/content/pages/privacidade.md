@@ -3,21 +3,21 @@ seo_title: Política de privacidade
 seo_description: Como o Não Monogâmico trata as informações enviadas pelos formulários e o que acontece quando você navega pelo site.
 eyebrow: Privacidade
 title: Política de *privacidade*
-lede: Este é um site informativo. Coletamos o mínimo possível — e explicamos aqui o que é coletado, para quê e como pedir alterações ou exclusão.
+lede: Este é um site informativo. Coletamos o mínimo possível e explicamos aqui o que é coletado, para quê e como pedir alterações ou exclusão.
 updated: 2026-11-02
 ---
 
 ## Navegação no site
 
 - **Não usamos cookies**, ferramentas de análise de audiência (como Google Analytics) nem pixels de publicidade.
-- Fontes, imagens e scripts são servidos pelo próprio site — nenhum serviço de terceiros é carregado enquanto você navega.
+- Fontes, imagens e scripts são servidos pelo próprio site. Nenhum serviço de terceiros é carregado enquanto você navega.
 - Como em qualquer site, o serviço de hospedagem pode registrar dados técnicos de acesso (como endereço IP, data e hora e tipo de navegador) para segurança e funcionamento da infraestrutura.
 
 ## Formulários de indicação e contribuição
 
 Os formulários servem para indicar eventos, profissionais e iniciativas, ou para propor conteúdos.
 
-**O que pedimos:** informações sobre o evento, o profissional ou a iniciativa indicada — como nome, área, cidade e canais públicos (Instagram, site). **Não pedimos nome, e-mail ou telefone de quem faz a indicação.**
+**O que pedimos:** informações sobre o evento, o profissional ou a iniciativa indicada, como nome, área, cidade e canais públicos (Instagram, site). **Não pedimos nome, e-mail ou telefone de quem faz a indicação.**
 
 **Contato opcional:** no formulário de conteúdo, você pode informar um contato (e-mail ou Instagram) se quiser receber resposta. Ele só é usado para responder àquela mensagem, e apenas com a sua autorização.
 
