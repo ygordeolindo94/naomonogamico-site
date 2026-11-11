@@ -8,7 +8,7 @@
 backend:
   name: github
   # ⚠️ Troque pelo repositório real no GitHub, no formato usuario/repositorio (ver docs/PUBLICACAO.md).
-  repo: diogoferla/naomonogamico-site
+  repo: ygordeolindo94/naomonogamico-site
   branch: site-novo
   auth_methods: [oauth]
   # Permite, ao salvar, escolher “não publicar ainda” (economiza deploys); o próximo salvamento normal publica tudo.
