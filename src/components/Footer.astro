@@ -63,7 +63,10 @@ const hasContacts = Boolean(SITE.social.instagram || SITE.social.email || SITE.s
         rede social, e não mantém parceria comercial com as iniciativas e profissionais listados, salvo quando indicado
         expressamente. As informações têm caráter educativo e não substituem orientação profissional.
       </p>
-      <p class="copy">© {year} {SITE.name} · {SITE.domainLabel}</p>
+      <div class="copy">
+        <p>© {year} {SITE.name} · {SITE.domainLabel}</p>
+        <p class="credit">Site desenvolvido por <a href="https://yoddigital.com.br/" target="_blank" rel="noopener">YOD Digital<span class="sr-only"> (abre em nova aba)</span></a></p>
+      </div>
     </div>
   </div>
 </footer>
@@ -86,7 +89,10 @@ const hasContacts = Boolean(SITE.social.instagram || SITE.social.email || SITE.s
   .bottom { display: grid; gap: var(--s-4); font-size: var(--step--1); color: var(--ink-2); }
   .bottom p { max-width: 70ch; }
   .bottom strong { color: var(--ink); }
-  .copy { color: var(--ink-3); }
+  .copy { color: var(--ink-3); display: grid; gap: var(--s-1); }
+  .copy p { max-width: none; }
+  .credit a { color: var(--ink-2); text-decoration: underline; text-underline-offset: 0.2em; }
+  .credit a:hover { color: var(--ink); }
   @media (min-width: 860px) {
     .top { grid-template-columns: 1fr 1.3fr; }
     .bottom { grid-template-columns: 1fr auto; align-items: end; }
